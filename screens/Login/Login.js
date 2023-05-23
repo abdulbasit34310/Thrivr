@@ -259,7 +259,7 @@ const styles = StyleSheet.create({
   action: {
     flexDirection: "row",
     marginTop: 15,
-    borderRadius: 25,
+    borderRadius: 40,
     backgroundColor: "#171717",
     alignItems: 'center',
     padding: 15,
