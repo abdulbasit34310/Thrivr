@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
 
-const CustomAlert = ({ title, text, onPress }) => {
+const CustomAlert = ({ title, text }) => {
   return (
     <View style={styles.alertContainer}>
       <Text style={styles.title}>{title}</Text>
